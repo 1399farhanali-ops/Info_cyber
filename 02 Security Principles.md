@@ -8,11 +8,11 @@
 - The CIA Triad forms the foundation of information security.
 - each element ensures that information remains safe and trustworthy.
 
-| Element              | Description                                                  | Example
-|----------------------|--------------------------------------------------------------|
-| **Confidentiality**  | Ensures data is accessible only to autgorised users          | Encrypting files, using passwords, access control lists.
-| **Integrity**        | ensures data is accurate, consistent, and not tampered with. | Using hashing, digital signatures, checksum.
-| **Availabilty**      | ensures systems and data are available when needed.          | Reduntant servers, backups, DDos protection.
+| Element              | Description                                                  | Example                                                  |
+|----------------------|--------------------------------------------------------------|----------------------------------------------------------|
+| **Confidentiality**  | Ensures data is accessible only to autgorised users          | Encrypting files, using passwords, access control lists. |
+| **Integrity**        | ensures data is accurate, consistent, and not tampered with. | Using hashing, digital signatures, checksum.             |
+| **Availabilty**      | ensures systems and data are available when needed.          | Reduntant servers, backups, DDos protection.             |
 
 ![OIP](https://github.com/user-attachments/assets/4ffce395-b03a-48d2-8f5a-bfe279ad4004)
 
